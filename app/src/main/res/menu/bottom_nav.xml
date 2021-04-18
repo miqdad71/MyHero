@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="@android:color/white">
+
+    <item
+        android:id="@+id/iHero"
+        android:icon="@drawable/ic_about"
+        android:title="@string/hero"
+        app:cnb_iconColor="@android:color/white" />
+
+    <item
+        android:id="@+id/iAboutMe"
+        android:icon="@drawable/ic_about"
+        android:title="@string/about"
+        app:cnb_iconColor="@android:color/white" />
+</menu>

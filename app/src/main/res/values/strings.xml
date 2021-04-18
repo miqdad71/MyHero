@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Pahlawan Indonesia</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="myHero">Pahlawan Indonesia</string>
+    <string name="hero">Pahlawan</string>
+    <string name="about">Tentangku</string>
+    <string name="my_name">Miqdad</string>
+    <string name="my_email">miqdad.ihbs71777@gmail.com</string>
+    <string name="time">Waktu Berjuang</string>
+    <string name="imageHero">Foto Pahlawan</string>
+    <string name="listViewGroup">List ViewGroup</string>
+    <string name="myName">Miqdad</string>
+    <string name="role">Android Developer</string>
+    <string name="myEmail">miqdad.ihbs71777@gmail.com</string>
+    <string name="my_profile_desc">"An Android development with a strong desire to learn new things. Currently focusing on developing android applications with Kotlin + MVVM, besides that i am also has a little knowledge about NodeJs, ExpressJs, JavaScript, MySQL, android jetpack, retrofit, firebase, rxJava, etc. "</string>
+    <string name="my_profile">My Profile</string>
+    <string name="background_image_profile">Background Image Profile</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="miqdad_aja7">miqdad_aja7</string>
+    <string name="instagram_icon">Instagram Icon</string>
+    <string name="github_icon">Github Icon</string>
+    <string name="https_github_com_miqdad71">https://github.com/miqdad71</string>
+    <string name="whatsapp_icon">Whatsapp Icon</string>
+    <string name="_0812_9805_6468">0812-9805-6468</string>
+    <string name="click_on_icon_or_text_to_directing_into_account">Click on icon or text to directing into account</string>
+    <string name="image_splashscreen">Image SplashScreen</string>
+    <string name="image_profile_pahlawan">Image Profile Pahlawan</string>
+    <string name="image_pahlawan">Image Pahlawan</string>
+    <string name="my_hero">Pahlawan Ku</string>
+
+</resources>
